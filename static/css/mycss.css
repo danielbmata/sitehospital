@@ -1,0 +1,12 @@
+/* Mensagem de sucesso */
+div.success {
+    color: white;
+    background-color: #4CAF50;
+    /* Cor de fundo verde */
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.logo {
+    margin-bottom: -10px;
+}
